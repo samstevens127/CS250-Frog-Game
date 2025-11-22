@@ -1,0 +1,6 @@
+[package]
+name = "CS250-Frog-Game"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
